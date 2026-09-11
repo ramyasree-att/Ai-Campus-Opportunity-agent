@@ -1,0 +1,7 @@
+Flask>=3.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+Werkzeug>=3.0.0
+beautifulsoup4>=4.12.0
+pypdf>=4.0.0
+apscheduler>=3.10.0
